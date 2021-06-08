@@ -42,7 +42,7 @@ class _AppState extends State<App> with WidgetsBindingObserver {
       return MaterialApp(
         onGenerateTitle: (BuildContext context) => kAppName,
         debugShowCheckedModeBanner: false,
-        // localisation delegatem missing
+        // localisation delegate missing
         supportedLocales: kSupportedLanguages,
         theme: AppTheme.theme(Brightness.light),
         darkTheme: AppTheme.theme(Brightness.dark),

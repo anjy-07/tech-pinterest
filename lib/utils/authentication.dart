@@ -19,17 +19,6 @@ class Authentication {
     required BuildContext context,
   }) async {
     FirebaseApp firebaseApp = await Firebase.initializeApp();
-    print("initialise");
-    // User? user = FirebaseAuth.instance.currentUser;
-
-    // if (user != null) {
-    //   Navigator.of(context).pushReplacement(
-    //     MaterialPageRoute(
-    //       builder: (context) => Text('hi')
-    //     ),
-    //   );
-    // }
-
     return firebaseApp;
   }
 
