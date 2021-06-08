@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "761444577109",
+    "project_id": "tech-pinterest-d7911",
+    "storage_bucket": "tech-pinterest-d7911.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761444577109:android:2689dd3e10961880aac9dc",
+        "android_client_info": {
+          "package_name": "com.example.tech_pinterest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761444577109-1l9t3a70aeittuno8e8q0d4qr3o8q2t0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tech_pinterest",
+            "certificate_hash": "528935364053486b46bdd7da9d2d627fe0520968"
+          }
+        },
+        {
+          "client_id": "761444577109-f7oed80j4pm6gnj3eotad8l058bi11tp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEW7WcBN5YaEkCXrmK5UiVQOK7U8K6qd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761444577109-f7oed80j4pm6gnj3eotad8l058bi11tp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "761444577109-ks7oe277cktml0tkd23cdnapb1nc3qoq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.techpinterest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
